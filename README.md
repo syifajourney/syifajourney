@@ -5,6 +5,7 @@ I like to explore, learning, and searching.
 ### About me:
 - 🎓 Student at Universitas Negeri Yogyakarta
 - 💻 Cohort of Coding Camp 2026 powered by DBS Foundation
+- 📊 Data enthusiast
 - 🔐 Cyber Security enthusiast
 - 🏍️ MotoGP enthusiast
 - 🎮 Gaming enjoyer 
